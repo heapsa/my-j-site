@@ -1,0 +1,3 @@
+markdown: redcarpet
+baser: /my-j-site
+exclude: [‘README.md’]
